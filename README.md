@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plumonk
-- 👀 I’m interested in using code without actually learning how to fully code
-- 🌱 I’m currently learning the basics
+- 👀 I’m interested in using code without actually learning how to code
+- 🌱 I’m currently learning the basics (sorta)
 - 💞️ 
 - 📫 
 
